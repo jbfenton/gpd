@@ -130,3 +130,7 @@ dmypy.json
 
 # PyCharm
 .idea/*
+
+# Ignore client secrets files
+gpd/configuration/client_id.json
+gpd/configuration/credentials_cache.json
