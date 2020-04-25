@@ -1,0 +1,3 @@
+"""
+Authorization unit tests.
+"""
